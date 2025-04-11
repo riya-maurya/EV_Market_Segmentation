@@ -32,11 +32,11 @@ The dataset was segmented into 5 unique clusters based on charging behavior. Clu
 You can view the full project report [here](link-to-your-PDF-or-Google-Drive).
 
 ## 🔗 GitHub Repository
-> https://github.com/your-username/ev-charging-segmentation
+>https://github.com/riya-maurya/EV_Market_Segmentation.git
 
 ---
 
 ## 🧑‍💻 Author
 **Riya Maurya**  
-BCA 3rd Year Student | Machine Learning Intern at Feynn Labs
+BCA 3rd Year Student
 

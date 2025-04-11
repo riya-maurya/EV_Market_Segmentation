@@ -29,7 +29,7 @@ This project analyzes electric vehicle (EV) charging data to identify customer s
 The dataset was segmented into 5 unique clusters based on charging behavior. Cluster 0 mostly represented short city rides with high-speed chargers, while Cluster 2 and 4 showed long-distance users. Cluster 3 reflected high-cost usage in warm climates, likely commercial EVs. These insights are useful to target EV infrastructure strategies and user-specific services
 
 ## 🔗 Report
-You can view the full project report [https://drive.google.com/file/d/1g37imeTcpS6wADPCWmfH5Jy2WqpfHo8p/view?usp=sharing].
+You can view the full project report : https://drive.google.com/file/d/1DI1mN7yK0xIj7gQG3Ies1lsNgTqp2wTK/view?usp=drive_link
 
 ## 🔗 GitHub Repository
 >https://github.com/riya-maurya/EV_Market_Segmentation.git

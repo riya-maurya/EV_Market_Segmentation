@@ -23,13 +23,13 @@ This project analyzes electric vehicle (EV) charging data to identify customer s
 ## 📁 Files Included
 - `ev_charging_patterns.csv` — Dataset
 - `EV_Market_Segmentation.ipynb` — Jupyter Notebook
-- `report.pdf` — Final project report
+- `Market Segmentation Analysis on EV Charging Patterns using Machine Learning.pdf` — Final project report
 
 ## 📈 Insights
 The dataset was segmented into 5 unique clusters based on charging behavior. Cluster 0 mostly represented short city rides with high-speed chargers, while Cluster 2 and 4 showed long-distance users. Cluster 3 reflected high-cost usage in warm climates, likely commercial EVs. These insights are useful to target EV infrastructure strategies and user-specific services
 
 ## 🔗 Report
-You can view the full project report [here](link-to-your-PDF-or-Google-Drive).
+You can view the full project report [https://drive.google.com/file/d/1g37imeTcpS6wADPCWmfH5Jy2WqpfHo8p/view?usp=sharing].
 
 ## 🔗 GitHub Repository
 >https://github.com/riya-maurya/EV_Market_Segmentation.git
